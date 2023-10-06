@@ -2,11 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main-This is the entry point of the function 
- * Return: always 0 
- */
+*main-This is the entry point of the function
+*Return: always 0
+*/
 /* more headers goes there */
-
 /* betty style doc for function main goes there */
 int main(void)
 {
@@ -24,10 +23,9 @@ int main(void)
 	{
 	printf("Last digit of %d is %d and is 0\n", n, x);
 	}
-	else 
+	else
 	{
 	printf("Last digit of %d is %d and is less than 6 and not 0\n", n, x);
-
 	}
 	return (0);
-}
+
