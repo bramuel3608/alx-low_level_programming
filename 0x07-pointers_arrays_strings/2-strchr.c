@@ -2,8 +2,8 @@
 
 /**
  *_strchr-function locates a character in a string
- *@s: this is the input
- *@c: this is input
+ *@s: string to be searched
+ *@c: character to be located
  *
  *Return: always 0
  */
